@@ -1,7 +1,7 @@
 # Hi there, I'm Yu-Peng Fu 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yu--peng--fu.vercel.app-blue?style=flat&logo=vercel)](https://yu-peng-fu.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yu-peng-fu](https://www.linkedin.com/in/yu-peng-fu-336994205/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yu-peng-fu-336994205/)
 [![Medium](https://img.shields.io/badge/Medium-100k+%20views-12100E?style=flat&logo=medium)](https://medium.com/@leofu890806)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%200.1%25-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Leofu/)
 - ![Total Stars](https://img.shields.io/github/stars/LeoFu9487?affiliations=OWNER&label=Total%20Stars&logo=github&color=yellow)
