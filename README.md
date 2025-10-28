@@ -40,7 +40,7 @@ I blend AI, mathematics, and engineering to build fast, intelligent systems—fr
 ## 📫 Let's Connect!
 
 - 🌐 **Portfolio:** [yu-peng-fu.vercel.app](https://yu-peng-fu.vercel.app)
-- 💼 **LinkedIn:** [Yu-Peng Fu](https://www.linkedin.com/in/yu-peng-fu)
+- 💼 **LinkedIn:** [Yu-Peng Fu](https://www.linkedin.com/in/yu-peng-fu-336994205/)
 - ✍️ **Medium:** [@leofu890806](https://medium.com/@leofu890806)
 - 💻 **LeetCode:** [Leofu](https://leetcode.com/u/Leofu/)
 - 📧 **Email:** leofu890806@gmail.com
