@@ -1,4 +1,4 @@
-# Hi there, I'm Yu-Peng Fu 👋
+# Hi there, I'm Yu-Peng (Leo) Fu 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yu--peng--fu.vercel.app-blue?style=flat&logo=vercel)](https://yu-peng-fu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yu-peng-fu/)
