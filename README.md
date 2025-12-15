@@ -12,7 +12,7 @@
 I'm an **AI/GPU Engineer & Full-Stack Developer** passionate about **algorithms**, **optimization**, and pushing **GPUs to their limits**.
 I blend AI, mathematics, and engineering to build fast, intelligent systems—from **low-level GPU kernels** to **scalable, production-ready full-stack applications**.
 
-- 🔭 Currently working as **AI/GPU Engineer @ Kog AI** (Paris, France)
+- 🔭 Currently working as **AI Infrastructure Engineer**
 - 💡 Specialized in **GPU kernel optimization**, **RAG systems**, and **high-performance computing**
 - 🏆 **Top 0.1%** on LeetCode | **Codeforces Master**
 - 📝 Published algorithm tutorials with **100,000+ views** on Medium
