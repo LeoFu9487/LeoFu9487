@@ -1,6 +1,5 @@
 # Hi there, I'm Yu-Peng (Leo) Fu 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yu--peng--fu.vercel.app-blue?style=flat&logo=vercel)](https://yu-peng-fu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yu-peng-fu/)
 [![Medium](https://img.shields.io/badge/Medium-100k+%20views-12100E?style=flat&logo=medium)](https://medium.com/@leofu890806)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%200.1%25-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Leofu/)
@@ -31,7 +30,6 @@ I blend AI, mathematics, and engineering to build fast, intelligent systems—fr
 
 ## 📫 Let's Connect!
 
-- 🌐 **Portfolio:** [yu-peng-fu.vercel.app](https://yu-peng-fu.vercel.app)
 - 💼 **LinkedIn:** [Yu-Peng Fu](https://www.linkedin.com/in/yu-peng-fu/)
 - ✍️ **Medium:** [@leofu890806](https://medium.com/@leofu890806)
 - 💻 **LeetCode:** [Leofu](https://leetcode.com/u/Leofu/)
